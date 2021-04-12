@@ -19,4 +19,4 @@ To leverage SQL skills to extract and analyze data from various tables in the Ma
 
 
 ### Running the project:
-1 -- MySQL Workbench or similar is need. 2 -- Extract the database from the zip file to read to the project script.
+1 -- MySQL Workbench or similar is need. 2 -- Use the "create_mavenmovies.sql" database file to read data to the project script.
