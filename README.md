@@ -1,1 +1,1 @@
-# Maven_Movies_SQL_Project_2
+# SQL Movie Database Project_2
